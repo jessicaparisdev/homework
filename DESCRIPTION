@@ -8,8 +8,4 @@ Description: This package generates random letters from the red, white, and blue
 License: What license is it under? the declaration of independence
 Encoding: UTF-8
 LazyData: true
-Imports: 
-  quantmod, stats, xts
-Suggests:
-  knitr
-  
+
