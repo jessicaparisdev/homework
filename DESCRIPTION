@@ -1,0 +1,15 @@
+Package: alfabet
+Type: Package
+Title: Random Letter Generator 
+Version: 0.1.0
+Author: Jessica Devitt
+Maintainer: The package maintainer <jessicadevitt23@gmail.com>
+Description: This package generates random letters from the red, white, and blue American alphabet. Raise your beer and get to generating all 26 letters, randomly. 
+License: What license is it under? the declaration of independence
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  quantmod, stats, xts
+Suggests:
+  knitr
+  
